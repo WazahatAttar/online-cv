@@ -4,131 +4,105 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Wazahat Attar
+    tagline: Backend Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: wazahat7attar@gmail.com
+    phone: +1 (510)674-6834
+    timezone: America/Pacific Timezone
+    linkedin: wazahat7attar
+    github: WazahatAttar
+    pdf: https://drive.google.com/file/d/16qAzCo_3XNp0PNa13NsBv7X_mmOs7lSQ/view?usp=sharing
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Fluent
+
+        - idiom: Hindi
+          level: Native
+          
+        - idiom: Marathi
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
+        - idiom: German
+          level: Elementary
+  
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: STORIES!!
           link:
 
-        - item: Snowboarding
+        - item: Books
           link:
 
-        - item: Cooking
+        - item: Soccer
+          link:
+
+        - item: Anime
           link:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: Results-driven Computer Science professional with expertise in virtualization, containerization, and deep learning. Adept at implementing cutting-edge technologies like AR, NLP, and ML, demonstrated through projects in real-time transcription, architectural simulations, and automated GIT commit identification. Proficient in Jenkins, Rabbitmq, qualtrics, and Ruby, seeking a development role to leverage skills in innovative tech solutions.
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Masters in Computer Science
+        university: California State University
+        time: 2021 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          
+      - degree: Bachelors in Computer Science
+        university: Vishwakarma Instituteof Technology, Pune
+        time: 2014 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Associate Software Engineer
+        time: Sept 2023 - Present
+        company: SecureThings U.S. Inc.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Integral part of SecureThings xSecureSquadron, an AI and machine learning based cyber assurance solution.
+            - Developed Machine learning and Data analytics solutions in Python to address cybersecurity requirements.
+
+      - role: Research Assistant
+        time: Aug 2021-May 2023
+        company: California State University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Spearheaded Mixed Reality research projects under Dr. Fay Zhong and Dr. Bita Astaneh Asl as a student research assistant, pioneering inter- department coordination, with substantial contribution in setup and supporting data analysis of multiple educational experiments. Worked on C# and Python for both graphic design and app codes.
+
+      - company: VMware Inc.
+      - role: Backend Software Developer II
+        time: March 2020-April 2021
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Major contribution in integrating GCP with CloudHealth cost management and automation platforms using Ruby-on-Rails, while also overseeing Devops pipeline
+            - Worked on fine-tuning personalized recommendation system based on configuration history and cluster layout for organizations in GCP using Python scripting
+
+      - role: Backend Software Developer
+        time: July 2018-Feb 2020
+        details: |
+            - Worked on Enforcing Application mapped Security to desktop Applications by creating cross-platform Drivers for Windows using C++
+            - Significant contribution in porting Legacy desktop application to WorkSpace One with data security with Kubernetes
+
+      - role: Intern Software Developer
+        time: July 2017-Dec 2017
+        details: |
+            - Created an internal tool in Jython for tracing/mapping virtual networks and charted policy enforcers atop it for continuity & scalability checks using Java testing frameworks.
+            
+
 
 certifications:
       title: Certifications
@@ -219,47 +193,36 @@ oss:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    
     papers:
-      - title: The Art of Computer Programming
+      - title: Accessible Education: Using Augmented Reality for Hearing-Impaired Students
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Uday Upreti, Wazahat Attar, Mostafa Radwan & Fay Zhong
+        conference: Proceedings of the 23rd International Conference on Internet Computing & IoT 22nd July, 2022
+        journal: Springer Nature - Research Book Series: Transactions on Computation
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & C++
+        level: 99%
+
+      - name: Linux, Shell Scripting & C#
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Natural Language Processing & related ML frameworks
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Java, Assembly Language & QBASIC
+        level: 97%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: MySQL, MongoDB & REST API Development
+        level: 90%
+
+      - name: Kubernetes, Cloud Virtualization & IOT
+        level: 93%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Have a Great Day!!!
