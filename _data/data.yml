@@ -103,58 +103,14 @@ experiences:
             - Created an internal tool in Jython for tracing/mapping virtual networks and charted policy enforcers atop it for continuity & scalability checks using Java testing frameworks.
             
 
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Interactive application to simulate Construction of a 3D building model from a 2D plan drawing using Unity3d
+        link: "https://docs.google.com/presentation/d/1tY_3aHVmtSEqOB-1KN5Fh-4DpRWaHia7/edit#slide=id.p1"
+        tagline: ""
 
       - title: DevStudio
         link: "#"
@@ -196,7 +152,6 @@ publications:
     
     papers:
       - title: Accessible Education: Using Augmented Reality for Hearing-Impaired Students
-        link: "#"
         authors: Uday Upreti, Wazahat Attar, Mostafa Radwan & Fay Zhong
         conference: Proceedings of the 23rd International Conference on Internet Computing & IoT 22nd July, 2022
         journal: Springer Nature - Research Book Series: Transactions on Computation
