@@ -137,7 +137,7 @@ projects:
 
       - title: Automated system to identify responsible GIT commit in case of integration failures using Deep Learning
         
-      - title: mplemented Proof of Concept for Game Streaming by utilizing a shared Hypervisor and pseudo-HaaS
+      - title: Implemented Proof of Concept for Game Streaming by utilizing a shared Hypervisor and pseudo-HaaS
         
       - title: NLP and ML based Voice-to-Text integration plugin in Python on search bars for handicap accessibility
 
@@ -146,6 +146,8 @@ projects:
       - title: Developed and implemented innovative Cloud-based IoT app using Flutter for a Smart Home Kitchen project
         
       - title: Smart Traffic Signal simulation in Arduino-C++ using Arduino microprocessor
+
+      - title: PLC controller for Automation of Water tanker and bottle filling 
 
 publications:
     title: Publications
@@ -178,6 +180,9 @@ skills:
 
       - name: Kubernetes, Cloud Virtualization & IOT
         level: 93%
+
+      - name: PLC
+        level: 50%
 
 footer: >
     Have a Great Day!!!
