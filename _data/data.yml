@@ -9,16 +9,16 @@ sidebar:
 
     # Profile information
     name: Wazahat Attar
-    tagline: Software Backend Developer
+    tagline: AI Software Developer
     avatar: profile111.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: wazahat7attar@gmail.com
-    phone: +1 (510)674-6834
-    timezone: America/Pacific Timezone
+    phone: +91 9420496446
+    timezone: India Standard Timezone
     linkedin: wazahat7attar
     github: WazahatAttar
-    pdf: https://drive.google.com/file/d/1SumWWAqnnouGcJRc7mAHsxqcmS2m8YxQ/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1Hg_ezuD9cOqGZJwwbai91Vn9CwPQmc3q/view?usp=sharing
 
     languages:
       title: Languages
@@ -41,13 +41,16 @@ sidebar:
         - item: STORIES!!
           link:
 
-        - item: Books
+        - item: Sci-fi & Fantasy
           link:
 
         - item: Soccer
           link:
 
         - item: Anime
+          link:
+
+        - item: F1 and MotoGP
           link:
 
 career-profile:
@@ -73,36 +76,43 @@ experiences:
     info:
       - role: Software Engineer
         time: April 2024 - Present
-        company: Stealth Startup
+        company: 360 World Inc.
         details: |
-            - Wearing diverse hats and assisting in different roles from Day 0.
-            - Leading 2 modules to completion, from initial workflow design, architecture review to implementation and Testing
+            - Led architectural design sessions and requirement analysis for scalable service solutions, translating business objectives into technical specifications and proof-of-concept implementations for MVP development.
+            - Integral part of core software design & development using Java Spring Boot and Google Spanner Tech-stack
+            - Managed end-to-end deployment and optimization of production services, ensuring robust performance and reliability while contributing to critical software design decisions.
+            - Spearheaded the onboarding and mentoring program for new engineering talent, fostering team growth and establishing collaborative development practices in a fast-paced startup environment.
+            - Provided technical leadership in stakeholder meetings, including board and investor presentations, aligning engineering initiatives with organizational strategy and business objectives.
 
-      - role: Associate Software Engineer
-        time: Sept 2023 - April 2024
-        company: SecureThings U.S. Inc.
-        details: |
-            - Integral part of SecureThings xSecureSquadron, an AI and machine learning based cyber assurance solution.
-            - Developed Machine learning and Data analytics solutions in Python to address cybersecurity requirements.
 
       - role: Research Assistant
         time: Aug 2021-May 2023
         company: California State University
         details: |
-            - Spearheaded Mixed Reality research projects under Dr. Fay Zhong and Dr. Bita Astaneh Asl as a student research assistant, pioneering inter- department coordination, with substantial contribution in setup and supporting data analysis of multiple educational experiments. Worked on C# and Python for both graphic design and app codes.
+            - Spearheaded the establishment of an AR lab, overseeing the selection of necessary devices and recruiting student collaborators to drive research and innovation in mixed reality technologies.
+            - Initiated and Facilitated seamless collaboration between multiple different academic departments as the primary liaison, ensuring effective communication and successful execution of inter-departmental projects.
+            - Developed and tested an interactive Python cloud-based application for Microsoft Hololens, providing real-time transcription support for hearing-impaired students, which received a 94% approval rating from on-campus users.
+            - Contributed significantly to the setup and data analysis of multiple educational experiments, while also creating innovative mixed reality apps for Meta Quest 2, Microsoft Hololens, and Apple iPad, leading to 13 full-fledged projects and 6 published papers in reputable tech journals.
+            - Designed and implemented a Retrieval-Augmented Generation (RAG) knowledge assistant for the AR research lab using LangChain, ChromaDB, and an open-source LLM, enabling seamless discovery, indexing, and retrieval of lab documents and technical discussions across all team members. The service was hosted on the university intranet via Docker and LangServe, ensuring secure, low-latency access within the campus network.
+            - Fine-tuned the lab’s domain-specific LLM using PEFT (LoRA) and quantized the model to 4-bit precision, optimizing GPU memory usage and inference speed for intranet deployment—achieving sub-second response times and reducing inference cost by over 60%.
+            - Developed a lightweight Streamlit-based UI running on the intranet, integrated with FastAPI to expose a RESTful endpoint mimicking OpenAI’s API spec, facilitating easy integration into existing internal tools and enabling non-technical students and faculty to interact with the assistant effortlessly
 
       - company: VMware Inc.
-      - role: Backend Software Developer II
+      - role: Backend Software Develop 
         time: March 2020-April 2021
         details: |
-            - Major contribution in integrating GCP with CloudHealth cost management and automation platforms using Ruby-on-Rails, while also overseeing Devops pipeline
-            - Worked on fine-tuning personalized recommendation system based on configuration history and cluster layout for organizations in GCP using Python scripting
+            - Integrated customers' GCP machines with the Cloudhealth cloud management platform, streamlining billing and cost optimization for the organization.
+            - Collaborated continuously with cross-functional teams across countries to onboard customers onto the platform, demonstrating expertise in Java, Ruby-on-Rails, Jenkins, and AWS to deliver seamless integration and superior customer experience.
+            - Developed and fine-tuned a personalized recommendation system using Python scripting, GCP, and TensorFlow, delivering a 20% average cost reduction for customers through optimized resource allocation.
+            - Managed on-call responsibilities using PagerDuty, ensuring message queue integrity, decluttering backlogs, and preventing message loss during high-traffic periods, contributing to a significant decrease in internal GCP integration time.
 
       - role: Backend Software Developer
         time: July 2018-Feb 2020
         details: |
-            - Worked on Enforcing Application mapped Security to desktop Applications by creating cross-platform Drivers for Windows using C++
-            - Significant contribution in porting Legacy desktop application to WorkSpace One with data security with Kubernetes
+            - Maintained and upgraded the ThinApp containerized solution, enabling the seamless execution of legacy Windows applications on the latest operating systems, resulting in a 30% performance improvement for customers.
+            - Demonstrated expertise in C++, Assembly Language, and WinDBG debugging to analyze and resolve complex Windows OS-related issues, leading to faster response times and enhanced customer satisfaction.
+            - Collaborated directly with Japanese B2B customers, providing technical assistance and support to ensure the successful implementation and troubleshooting of the ThinApp solution.
+            - Leveraged containerization, Perforce version control, and Linux shell scripting skills to enhance the reliability and scalability of the on- premises ThinApp platform, recognized by the largest customer with a note of appreciation.
 
       - role: Intern Software Developer
         time: July 2017-Dec 2017
@@ -126,20 +136,28 @@ projects:
       - title: VR Experiment for remote multidisciplinary architecture, engineering, and construction (AEC) team collaboration
         
       - title: Experiment to assess comprehension of MEP systems with varying degrees of freedom
+        tagline: "Engineered VR visualization system using Adobe Aero and Amazon Sumerian to convert construction blueprints into interactive Google Cardboard experiences. Conducted comprehensive data analysis using Octave and Qualtrics to evaluate MEP systems comprehension across varying degrees of freedom."
         
       - title: NLP and ML based Voice-to-Text integration plugin in Python on search bars for handicap accessibility
+        tagline: "Developed accessibility-focused Python plugin integrating NLTK and SpeechRecognition libraries for voice-activated search functionality. Implemented customizable shortcut system for CloudHealth search bar activation, enhancing handicap accessibility"
 
       - title: Personality infused Pop-culture Chatbot in Python using NLP & Machine Learning Techniques
+        tagline: "Engineered compact (<500MB) conversational AI using NLTK and Keras in Python, andv pgraded to leverage Small Language Model (Gemma-2 2B) fine-tuned using PEFT (LoRA). Improved response relevance and conversational coherence by 35% over the original version."
 
       - title: Automated system to identify responsible GIT commit in case of integration failures using Deep Learning
+        tagline: "Developed ML-powered fault detection system using Python, PyTorch, and Transformers to analyze Git commit histories. Implemented deep learning models using TensorFlow to predict probability of faulty commits, optimizing rollback decisions"
         
       - title: Implemented Proof of Concept for Game Streaming by utilizing a shared Hypervisor and pseudo-HaaS
+        tagline: "Architected cloud gaming solution using VMware Horizon & Tanzu for resource optimization across cloud & local data centers. Implemented Kubernetes based container orchestration with custom Hypervisor configuration for efficient game streaming"
                 
       - title: Developed and implemented innovative Cloud-based IoT app using Flutter for a Smart Home Kitchen project
+        tagline: "Developed Flutter based cloud IoT application integrating Raspberry Pi with OpenCV and weight sensors for kitchen inventory management. Implemented computer vision algorithms in Python on Raspbian OS for automated produce detection and supply monitoring"
         
       - title: Smart Traffic Signal simulation in Arduino-C++ using Arduino microprocessor
+        tagline: "Engineered Arduino based traffic management system utilizing IR sensors and C++ for vehicle detection and signal optimization. Implemented circuit design for real-time traffic flow monitoring and automated signal control"
 
       - title: PLC controller for Automation of Water tanker and bottle filling 
+        tagline: "Designed automated water tanker and bottle filling system using Programmable Logic Controllers. Implemented industrial automation logic for optimized factory operations"
 
 publications:
     title: Publications
